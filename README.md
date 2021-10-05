@@ -12,7 +12,7 @@ A small responsive website developed using codeigniter framework
 ## Installation
 
 ```sh
-git clone https://github.com/zamanet/Responsive-eCommerce-CodeIgniter.git
+git clone https://github.com/bagusmaulana06/Responsive-eCommerce-CodeIgniter.git
 ```
 
 ## RajaOngkir API Key
@@ -32,23 +32,3 @@ Change sql mode in MySQL with this command
 ```sql
 SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
 ```
-
-## Login
-
-Admin
-```sh
-Username : admin
-Password : admin123
-```
-
-## Demo
-[Zamanet Store](http://semawur.com/Skt8eIe)
-
-
-## Contact
-
-[hi@zamanet.com](mailto:hi@zamanet.com)
-
-
-
-It is recommended that you be connected to an internet connection 
